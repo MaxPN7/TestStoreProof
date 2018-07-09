@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "peech2sign"
+title:       "Speech2signs"
 keywords:    "computer vision, deep learning, sign language, speech2sign"
 description: "Description here"
 source_link: "https://github.com/imatge-upc/speech2signs"
