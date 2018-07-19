@@ -1,10 +1,10 @@
 ---
 title: "Contribute to the Dataset"
-bg: 'blue'
-color: 'white'
+bg: blue
+color: white
 fa-icon: database
 ---
-DEBUG !
+DEBUG !!
 
 # Help us, Contribute to the dataset
 
