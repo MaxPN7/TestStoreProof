@@ -2,10 +2,10 @@
 title: "Contribute to the Dataset"
 bg: blue
 color: white
+fa-icon: database
 ---
 
-fa-icon: database
-Help us, Contribute to the dataset
+# Help us, Contribute to the dataset
 
 If you want to provide your list of Youtube urls and contribute to the project, fork [this repo](https://github.com/imatge-upc/speech2signs/tree/dataset) and add your text file containing your list of urls directly in the dataset folder, then make a pull request.
 
