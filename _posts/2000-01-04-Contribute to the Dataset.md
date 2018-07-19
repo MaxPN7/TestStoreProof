@@ -1,7 +1,7 @@
 ---
 title: "Contribute to the Dataset"
-bg: #9AD1F5
-color: black
+bg: blue
+color: white
 fa-icon: database
 ---
 You can help us contributing to the Dataset !!
