@@ -16,4 +16,5 @@ To write this text file, you have to follow this convention:
 * Blanks in the text files are ignored.
 
 You can create your own folder inside the dataset folder (check the recursive option of the dldataset app).
+<br>
 You can take a look at the existing dataset [here](https://github.com/imatge-upc/speech2signs/tree/dataset)
